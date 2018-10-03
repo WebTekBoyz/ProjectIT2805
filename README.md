@@ -1,5 +1,6 @@
-*** Dette er en README 
+*** Dette er en README
 
  - Hei
- - Dette er 
+ - Dette er
  - En Liste
+ - hahaha
