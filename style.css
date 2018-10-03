@@ -1,0 +1,23 @@
+body {
+  margin:auto;
+  background-color: gray;
+  font-family: "Times New Roman", sans-serif;
+}
+
+.topp {
+  text-align: center;
+}
+
+.box {
+  width: 960px;
+  height: 100%;
+  margin: auto;
+  background-color: #F5F5F5;
+  border-style: solid;
+  margin-bottom: 40px;
+  font-size: 20px;
+  line-height: 1.5em;
+  padding-left: 1%;
+  padding-right: 1%;
+  text-align: justify;
+}
