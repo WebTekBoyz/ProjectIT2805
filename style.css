@@ -4,12 +4,12 @@ body {
   font-family: "Times New Roman", sans-serif;
 }
 
-.topp {
+#topp {
   text-align: center;
 }
 
 .box {
-  width: 960px;
+  width: 70%;
   height: 100%;
   margin: auto;
   background-color: #F5F5F5;
@@ -23,7 +23,7 @@ body {
 }
 
 #navstruktur2 {
-  max-width: 960px;
+  max-width: 70%;
   border-style: solid;
   border-width: 2px;
   margin-left: 15%;
