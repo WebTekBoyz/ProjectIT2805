@@ -29,3 +29,11 @@ body {
   margin-left: 15%;
   margin-bottom: 2%;
 }
+
+.mockup {
+  max-width: 800px;
+  position: relative;
+  left:180px;
+  margin-top: 70px;
+  margin-bottom: 50px;
+}
