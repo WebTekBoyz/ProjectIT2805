@@ -37,3 +37,12 @@ body {
   margin-top: 70px;
   margin-bottom: 50px;
 }
+
+#html_fil {
+  width: 60%;
+}
+
+#js_fil {
+  width: 60%;
+  margin-bottom:50px;
+}
