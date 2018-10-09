@@ -31,11 +31,11 @@ body {
 }
 
 .mockup {
-  max-width: 800px;
-  position: relative;
-  left:180px;
-  margin-top: 70px;
-  margin-bottom: 50px;
+    max-width: 70%;
+    border-style: solid;
+    border-width: 2px;
+    margin-left: 15%;
+    margin-bottom: 2%;
 }
 
 #html_fil {
